@@ -4,11 +4,11 @@
   "show_native": true,
   "show_rewarded": true,
   "admob_setting": {
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner_id": "ca-app-pub-3940256099942544/630078111",
-    "inter_id": "ca-app-pub-3940256099942544/103317712",
-    "native_id": "ca-app-pub-3940256099942544/224769110",
-    "reward_id": "ca-app-pub-3940256099942544/522435917"
+    "app_id": "ca-app-pub-9174953450144507~3850064916",
+    "banner_id": "ca-app-pub-9174953450144507/2828931200",
+    "inter_id": "ca-app-pub-9174953450144507/6197330579",
+    "native_id": "ca-app-pub-9174953450144507/9146927547",
+    "reward_id": "ca-app-pub-9174953450144507/7833845876"
   },
   "fan_setting": {
     "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
