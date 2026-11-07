@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "title": "Halloween Transform",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
+    "category": "Halloween",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Transform your photo into a cinematic spooky Halloween character with dramatic lighting and eerie atmosphere."
+  },
+  {
+    "id": "2",
+    "title": "Cyberpunk",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Apply a futuristic cyberpunk aesthetic to your photo with neon glowing lights and tech-noir style."
+  },
+  {
+    "id": "3",
+    "title": "Retro Vibe",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 45,
+    "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
+  },
+  {
+    "id": "4",
+    "title": "Vintage Film",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 45,
+    "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
+  },
+  {
+    "id": "5",
+    "title": "Old School",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 45,
+    "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
+  },
+  {
+    "id": "6",
+    "title": "Classic 90s",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 45,
+    "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
+  },
+  {
+    "id": "7",
+    "title": "Retro Aesthetic",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Trending",
+    "isPro": true,
+    "credits": 45,
+    "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
+  },
+  {
+    "id": "b1",
+    "title": "Health Products Ca..",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
+    "category": "Health Products",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Display your health product photo in a professional clean lifestyle setting with bright, airy lighting."
+  },
+  {
+    "id": "b2",
+    "title": "Health Products Gr..",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Health Products",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Showcase your health supplement with dynamic motion graphics and energetic transitions."
+  },
+  {
+    "id": "b3",
+    "title": "Health Produc..",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Health Products",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Minimalist and elegant presentation for your organic health brand photo."
+  },
+  {
+    "id": "f1",
+    "title": "Food Rosa",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5f73ef82-84ad-4c85-93cb-5ff196aad561/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Food",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Merge your food dish photo into a vibrant Rosa-themed professional culinary commercial."
+  },
+  {
+    "id": "f2",
+    "title": "Food Maya",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/eda0ca77-21da-459a-b7bd-7b08855202f5/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Food",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Place your gourmet dish in a warm, cozy Maya-style dining atmosphere with soft bokeh."
+  },
+  {
+    "id": "f3",
+    "title": "Food Elena",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/aa9fd4c5-dcbc-4b79-a0e7-11e88820b5b3/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Food",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Elegant Elena-inspired artistic presentation to make your food photo look appetizing and high-end."
+  },
+  {
+    "id": "be1",
+    "title": "Beauty Lily",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
+    "category": "Beauty",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Blend your beauty portrait into a soft Lily floral background with skin-smoothing glow effects."
+  },
+  {
+    "id": "be2",
+    "title": "Beauty Thea",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Beauty",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Highlight your makeup or skincare look with Thea's ethereal glow and sparkle effects."
+  },
+  {
+    "id": "be3",
+    "title": "Beauty Quinn",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Beauty",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Bold and artistic Beauty Quinn style with unique color grading for your profile photo."
+  },
+  {
+    "id": "el1",
+    "title": "Electronics Iris",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5f73ef82-84ad-4c85-93cb-5ff196aad561/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Electronics & Software",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Sleek and professional tech showcase for your latest electronic gadget or smartphone photo."
+  },
+  {
+    "id": "el2",
+    "title": "Electronics Rosa",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/eda0ca77-21da-459a-b7bd-7b08855202f5/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Electronics & Software",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Modern Rosa-themed digital background to display your software app screenshot or digital product."
+  },
+  {
+    "id": "fa1",
+    "title": "Fashion Elements",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/aa9fd4c5-dcbc-4b79-a0e7-11e88820b5b3/generation-genjutsu-h264-600-v1.mp4",
+    "category": "Fashion UGC Elements",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Incorporate your fashion outfit photo into dynamic social media UGC style video with text overlays."
+  },
+  {
+    "id": "bs1",
+    "title": "Bag & Shoes 1",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
+    "category": "Bag & Shoes",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Professional commercial-style product video for your bag, shoe, or accessory collection."
+  }
+]
+
