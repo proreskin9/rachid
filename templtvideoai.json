@@ -178,6 +178,284 @@
     "isPro": true,
     "credits": 50,
     "prompt": "Professional commercial-style product video for your bag, shoe, or accessory collection."
+  },
+  {
+    "id": "ss1",
+    "title": "Shorts Studio 1",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/3e502c1c-fe17-4d94-b0e1-10cd79709794.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss2",
+    "title": "Shorts Studio 2",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/1c1caa5e-cee3-488e-b328-9c276efb8d6b.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss3",
+    "title": "Shorts Studio 3",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/4e59eb2f-0193-46da-b921-e33c82965a39.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss4",
+    "title": "Shorts Studio 4",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/c8e85703-1572-4ea3-bbe5-d39665c41e6e.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss5",
+    "title": "Shorts Studio 5",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/50a56c7e-e9c6-414c-a69c-0350e126e68d.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss6",
+    "title": "Shorts Studio 6",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/daf78f8e-d943-4db6-8c27-e04a114e7ddf.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "ss7",
+    "title": "Shorts Studio 7",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/89bb9850-6bf2-4c6a-81cb-f9d79332dc6a.mp4",
+    "category": "Shorts Studio",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Dynamic short-form video preset optimized for viral social media content."
+  },
+  {
+    "id": "gj1",
+    "title": "Genjutsu Preset 1",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/065bbe91-62b6-4ff8-8715-fb4d8dd819d1/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj2",
+    "title": "Genjutsu Preset 2",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9c4b5e4e-13d7-4726-9e18-ca41bbab3808/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj3",
+    "title": "Genjutsu Preset 3",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bd9d4678-a69b-4141-ba5e-87a7ce9e636d/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj4",
+    "title": "Genjutsu Preset 4",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8c2eb90f-19e7-4ee8-8db4-3e5a6917fe86/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj5",
+    "title": "Genjutsu Preset 5",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b0245d02-f7b6-4026-987b-701cdaef0cf2/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj6",
+    "title": "Genjutsu Preset 6",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/47472360-3fbd-417b-ba01-74c1a93e1dc0/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj7",
+    "title": "Genjutsu Preset 7",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ce8fbfbf-cc71-47fb-a2da-01c5f3c6645d/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj8",
+    "title": "Genjutsu Preset 8",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7652cf01-0859-4b1a-8ff9-f06946ec59f5/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj9",
+    "title": "Genjutsu Preset 9",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/0073f510-4f0e-440b-8ae7-b2b08a08bb87/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj10",
+    "title": "Genjutsu Preset 10",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/33d9c751-a3bc-4842-bf3a-9da8e1ab178e/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj11",
+    "title": "Genjutsu Preset 11",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/17925bb2-e39a-4b7b-aa16-91ea1feabe18/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj12",
+    "title": "Genjutsu Preset 12",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/acc266e5-7c08-4380-8748-b83cabfe183c/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj13",
+    "title": "Genjutsu Preset 13",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/33187969-7364-48d4-b9d0-d49f14f791cd/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj14",
+    "title": "Genjutsu Preset 14",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2859d942-e4df-47d7-b49b-5d414819085f/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj15",
+    "title": "Genjutsu Preset 15",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/1855e27b-c716-47e5-9e9f-6df6eb1d934d/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj16",
+    "title": "Genjutsu Preset 16",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7605b795-3bf2-4093-8b06-920b56905c2c/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj17",
+    "title": "Genjutsu Preset 17",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/d37b6516-dd09-417a-bf94-d7e0528459af/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj18",
+    "title": "Genjutsu Preset 18",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b7b9812f-938c-4459-9931-b86cb490bbc7/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj19",
+    "title": "Genjutsu Preset 19",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/e8b55f9f-7b96-44ce-ac86-60eef3bc74f3/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj20",
+    "title": "Genjutsu Preset 20",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/266649c8-9964-4498-a365-11b88c185304/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj21",
+    "title": "Genjutsu Preset 21",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9c11bdb3-37bf-43a0-926f-ecc771f22f6a/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj22",
+    "title": "Genjutsu Preset 22",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/773416fc-c265-42bf-8d2f-524ceecf1e02/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj23",
+    "title": "Genjutsu Preset 23",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/224dc310-ad0b-4e43-b992-0dfd617a499f/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
+  },
+  {
+    "id": "gj24",
+    "title": "Genjutsu Preset 24",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b8d56dd7-5633-4345-a906-0ed98a3def5e/generation.mp4",
+    "category": "Genjutsu Presets",
+    "isPro": true,
+    "credits": 50,
+    "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
   }
 ]
-
