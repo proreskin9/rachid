@@ -1,5 +1,6 @@
-[
-  {
+{
+  "_creator": [
+ {
     "id": "1",
     "title": "Halloween Transform",
     "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
@@ -458,4 +459,25 @@
     "credits": 50,
     "prompt": "Advanced cinematic visual transformation effect with surreal aesthetic."
   }
-]
+  ],
+  "_busniscontuine": [
+    {
+      "id": "b1",
+      "title": "Product Showcase",
+      "videoUrl": "https://example.com/business1.mp4",
+      "category": "Marketing",
+      "isPro": true,
+      "credits": 75,
+      "prompt": "Elegant product presentation"
+    },
+    {
+      "id": "b2",
+      "title": "Corporate Intro",
+      "videoUrl": "https://example.com/business2.mp4",
+      "category": "Presentation",
+      "isPro": false,
+      "credits": 50,
+      "prompt": "Modern office environment intro"
+    }
+  ]
+}
