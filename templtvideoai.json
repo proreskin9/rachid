@@ -1,7 +1,7 @@
 {
   "_creator": [
     {
-      "id": "1",
+      "id": "c1",
       "title": "Halloween Transform",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
       "category": "Halloween",
@@ -10,7 +10,7 @@
       "prompt": "Transform your photo into a cinematic spooky Halloween character with dramatic lighting and eerie atmosphere."
     },
     {
-      "id": "2",
+      "id": "c2",
       "title": "Cyberpunk",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -19,7 +19,7 @@
       "prompt": "Apply a futuristic cyberpunk aesthetic to your photo with neon glowing lights and tech-noir style."
     },
     {
-      "id": "3",
+      "id": "c3",
       "title": "Retro Vibe",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -28,7 +28,7 @@
       "prompt": "Give your photo a vintage 90s retro look with film grain, chromatic aberration, and old-school vibes."
     },
     {
-      "id": "4",
+      "id": "c4",
       "title": "Vintage Film",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -37,7 +37,7 @@
       "prompt": "Apply classic analog 35mm film textures, warm nostalgia tones, and subtle light leaks to your shot."
     },
     {
-      "id": "5",
+      "id": "c5",
       "title": "Old School",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -46,7 +46,7 @@
       "prompt": "Recreate an authentic throwback camcorder aesthetic with retro color grading and soft motion blur."
     },
     {
-      "id": "6",
+      "id": "c6",
       "title": "Classic 90s",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -55,7 +55,7 @@
       "prompt": "Infuse your portrait with iconic 1990s editorial magazine lighting, sharp contrast, and timeless style."
     },
     {
-      "id": "7",
+      "id": "c7",
       "title": "Retro Aesthetic",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Trending",
@@ -64,7 +64,7 @@
       "prompt": "Blend dreamy retro synthwave hues with soft film halation for a nostalgic visual transformation."
     },
     {
-      "id": "8",
+      "id": "c8",
       "title": "Neon Nightlife",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-girl-in-a-neon-city-at-night-34440-large.mp4",
       "category": "Trending",
@@ -73,7 +73,7 @@
       "prompt": "Cinematic night city atmosphere with vibrant magenta and cyan neon reflections."
     },
     {
-      "id": "9",
+      "id": "c9",
       "title": "Abstract Light Waves",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-abstract-flowing-particles-of-light-32662-large.mp4",
       "category": "Abstract",
@@ -82,7 +82,7 @@
       "prompt": "Surround your subject with flowing luminous particles and ethereal 8K abstract light trails."
     },
     {
-      "id": "10",
+      "id": "c10",
       "title": "Autumn Nature Escape",
       "videoUrl": "https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-leaves-in-autumn-44825-large.mp4",
       "category": "Nature",
@@ -91,7 +91,7 @@
       "prompt": "Place your scene in a serene golden autumn forest with gently falling leaves and warm sunlight."
     },
     {
-      "id": "b1",
+      "id": "c11",
       "title": "Health Products Care",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
       "category": "Health Products",
@@ -100,7 +100,7 @@
       "prompt": "Display your health product photo in a professional clean lifestyle setting with bright, airy lighting."
     },
     {
-      "id": "b2",
+      "id": "c12",
       "title": "Health Products Growth",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
       "category": "Health Products",
@@ -109,7 +109,7 @@
       "prompt": "Showcase your health supplement with dynamic motion graphics and energetic transitions."
     },
     {
-      "id": "b3",
+      "id": "c13",
       "title": "Health Products Pure",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Health Products",
@@ -118,7 +118,7 @@
       "prompt": "Minimalist and elegant presentation for your organic health brand photo."
     },
     {
-      "id": "f1",
+      "id": "c14",
       "title": "Food Rosa",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5f73ef82-84ad-4c85-93cb-5ff196aad561/generation-genjutsu-h264-600-v1.mp4",
       "category": "Food",
@@ -127,7 +127,7 @@
       "prompt": "Merge your food dish photo into a vibrant Rosa-themed professional culinary commercial."
     },
     {
-      "id": "f2",
+      "id": "c15",
       "title": "Food Maya",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/eda0ca77-21da-459a-b7bd-7b08855202f5/generation-genjutsu-h264-600-v1.mp4",
       "category": "Food",
@@ -136,7 +136,7 @@
       "prompt": "Place your gourmet dish in a warm, cozy Maya-style dining atmosphere with soft bokeh."
     },
     {
-      "id": "f3",
+      "id": "c16",
       "title": "Food Elena",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/aa9fd4c5-dcbc-4b79-a0e7-11e88820b5b3/generation-genjutsu-h264-600-v1.mp4",
       "category": "Food",
@@ -145,7 +145,7 @@
       "prompt": "Elegant Elena-inspired artistic presentation to make your food photo look appetizing and high-end."
     },
     {
-      "id": "be1",
+      "id": "c17",
       "title": "Beauty Lily",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
       "category": "Beauty",
@@ -154,7 +154,7 @@
       "prompt": "Blend your beauty portrait into a soft Lily floral background with skin-smoothing glow effects."
     },
     {
-      "id": "be2",
+      "id": "c18",
       "title": "Beauty Thea",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/430a570c-2b6a-43b6-9e3b-645e8bc6be58/generation-genjutsu-h264-600-v1.mp4",
       "category": "Beauty",
@@ -163,7 +163,7 @@
       "prompt": "Highlight your makeup or skincare look with Thea's ethereal glow and sparkle effects."
     },
     {
-      "id": "be3",
+      "id": "c19",
       "title": "Beauty Quinn",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/347fd5a0-1445-4005-a92d-c776b63a1114/generation-genjutsu-h264-600-v1.mp4",
       "category": "Beauty",
@@ -172,7 +172,7 @@
       "prompt": "Bold and artistic Beauty Quinn style with unique color grading for your profile photo."
     },
     {
-      "id": "el1",
+      "id": "c20",
       "title": "Electronics Iris",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5f73ef82-84ad-4c85-93cb-5ff196aad561/generation-genjutsu-h264-600-v1.mp4",
       "category": "Electronics & Software",
@@ -181,7 +181,7 @@
       "prompt": "Sleek and professional tech showcase for your latest electronic gadget or smartphone photo."
     },
     {
-      "id": "el2",
+      "id": "c21",
       "title": "Electronics Rosa",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/eda0ca77-21da-459a-b7bd-7b08855202f5/generation-genjutsu-h264-600-v1.mp4",
       "category": "Electronics & Software",
@@ -190,7 +190,7 @@
       "prompt": "Modern Rosa-themed digital background to display your software app screenshot or digital product."
     },
     {
-      "id": "fa1",
+      "id": "c22",
       "title": "Fashion Elements",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/aa9fd4c5-dcbc-4b79-a0e7-11e88820b5b3/generation-genjutsu-h264-600-v1.mp4",
       "category": "Fashion UGC Elements",
@@ -199,7 +199,7 @@
       "prompt": "Incorporate your fashion outfit photo into dynamic social media UGC style video with text overlays."
     },
     {
-      "id": "bs1",
+      "id": "c23",
       "title": "Bag & Shoes Showcase",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/57ea73d1-18b2-42b0-b059-cfd859088c38/generation.mp4",
       "category": "Bag & Shoes",
@@ -208,7 +208,7 @@
       "prompt": "Professional commercial-style product video for your bag, shoe, or accessory collection."
     },
     {
-      "id": "ss1",
+      "id": "c24",
       "title": "Shorts Studio 1",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/3e502c1c-fe17-4d94-b0e1-10cd79709794.mp4",
       "category": "Shorts Studio",
@@ -217,7 +217,7 @@
       "prompt": "Fast-paced vertical hook transition optimized for viral Reels and TikTok engagement."
     },
     {
-      "id": "ss2",
+      "id": "c25",
       "title": "Shorts Studio 2",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/1c1caa5e-cee3-488e-b328-9c276efb8d6b.mp4",
       "category": "Shorts Studio",
@@ -226,7 +226,7 @@
       "prompt": "Dynamic zoom-in kinetic motion preset designed to grab viewer attention in the first 3 seconds."
     },
     {
-      "id": "ss3",
+      "id": "c26",
       "title": "Shorts Studio 3",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/4e59eb2f-0193-46da-b921-e33c82965a39.mp4",
       "category": "Shorts Studio",
@@ -235,7 +235,7 @@
       "prompt": "Smooth cinematic camera orbit ideal for lifestyle, fashion, and creator storytelling shorts."
     },
     {
-      "id": "ss4",
+      "id": "c27",
       "title": "Shorts Studio 4",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/c8e85703-1572-4ea3-bbe5-d39665c41e6e.mp4",
       "category": "Shorts Studio",
@@ -244,7 +244,7 @@
       "prompt": "High-energy beat-synced visual pulse effect tailored for trending social media audio."
     },
     {
-      "id": "ss5",
+      "id": "c28",
       "title": "Shorts Studio 5",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/50a56c7e-e9c6-414c-a69c-0350e126e68d.mp4",
       "category": "Shorts Studio",
@@ -253,7 +253,7 @@
       "prompt": "Dramatic slow-motion reveal with crisp depth-of-field blur for standout short-form content."
     },
     {
-      "id": "ss6",
+      "id": "c29",
       "title": "Shorts Studio 6",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/daf78f8e-d943-4db6-8c27-e04a114e7ddf.mp4",
       "category": "Shorts Studio",
@@ -262,7 +262,7 @@
       "prompt": "Modern split-frame and light-streak motion preset built for viral creator showcases."
     },
     {
-      "id": "ss7",
+      "id": "c30",
       "title": "Shorts Studio 7",
       "videoUrl": "https://static-public-media.higgsfield.ai/ai-reels-presets/89bb9850-6bf2-4c6a-81cb-f9d79332dc6a.mp4",
       "category": "Shorts Studio",
@@ -271,7 +271,7 @@
       "prompt": "Fluid 3D parallax camera sweep turning static photos into immersive vertical videos."
     },
     {
-      "id": "gj1",
+      "id": "c31",
       "title": "Genjutsu Preset 1",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/065bbe91-62b6-4ff8-8715-fb4d8dd819d1/generation.mp4",
       "category": "Genjutsu Presets",
@@ -280,7 +280,7 @@
       "prompt": "Surreal reality-bending visual warp with cinematic lighting and atmospheric depth."
     },
     {
-      "id": "gj2",
+      "id": "c32",
       "title": "Genjutsu Preset 2",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9c4b5e4e-13d7-4726-9e18-ca41bbab3808/generation.mp4",
       "category": "Genjutsu Presets",
@@ -289,7 +289,7 @@
       "prompt": "Ethereal particle dissolution effect transforming your subject into glowing energy."
     },
     {
-      "id": "gj3",
+      "id": "c33",
       "title": "Genjutsu Preset 3",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bd9d4678-a69b-4141-ba5e-87a7ce9e636d/generation.mp4",
       "category": "Genjutsu Presets",
@@ -298,7 +298,7 @@
       "prompt": "Dark fantasy illusion transition with dramatic shadow play and volumetric fog."
     },
     {
-      "id": "gj4",
+      "id": "c34",
       "title": "Genjutsu Preset 4",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8c2eb90f-19e7-4ee8-8db4-3e5a6917fe86/generation.mp4",
       "category": "Genjutsu Presets",
@@ -307,16 +307,16 @@
       "prompt": "Hypnotic kaleidoscope mirror refraction with vivid cinematic color grading."
     },
     {
-      "id": "gj5",
+      "id": "c35",
       "title": "Genjutsu Preset 5",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b0245d02-f7b6-4026-987b-701cdaef0cf2/generation.mp4",
       "category": "Genjutsu Presets",
       "isPro": true,
       "credits": 50,
-      "prompt": "Mystical aura awakening with floating embers and high-contrast dramaticrim light."
+      "prompt": "Mystical aura awakening with floating embers and high-contrast dramatic rim light."
     },
     {
-      "id": "gj6",
+      "id": "c36",
       "title": "Genjutsu Preset 6",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/47472360-3fbd-417b-ba01-74c1a93e1dc0/generation.mp4",
       "category": "Genjutsu Presets",
@@ -325,7 +325,7 @@
       "prompt": "Dreamlike liquid chrome morphing effect with futuristic studio reflections."
     },
     {
-      "id": "gj7",
+      "id": "c37",
       "title": "Genjutsu Preset 7",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ce8fbfbf-cc71-47fb-a2da-01c5f3c6645d/generation.mp4",
       "category": "Genjutsu Presets",
@@ -334,7 +334,7 @@
       "prompt": "Celestial astral projection with glowing constellations and deep cosmic tones."
     },
     {
-      "id": "gj8",
+      "id": "c38",
       "title": "Genjutsu Preset 8",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7652cf01-0859-4b1a-8ff9-f06946ec59f5/generation.mp4",
       "category": "Genjutsu Presets",
@@ -343,7 +343,7 @@
       "prompt": "Shattered glass dimension shift revealing an alternate cinematic world."
     },
     {
-      "id": "gj9",
+      "id": "c39",
       "title": "Genjutsu Preset 9",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/0073f510-4f0e-440b-8ae7-b2b08a08bb87/generation.mp4",
       "category": "Genjutsu Presets",
@@ -352,7 +352,7 @@
       "prompt": "Enchanted bioluminescent forest transformation with glowing flora and mist."
     },
     {
-      "id": "gj10",
+      "id": "c40",
       "title": "Genjutsu Preset 10",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/33d9c751-a3bc-4842-bf3a-9da8e1ab178e/generation.mp4",
       "category": "Genjutsu Presets",
@@ -361,7 +361,7 @@
       "prompt": "Cyber-mystic hologram glitch transition with electric blue energy arcs."
     },
     {
-      "id": "gj11",
+      "id": "c41",
       "title": "Genjutsu Preset 11",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/17925bb2-e39a-4b7b-aa16-91ea1feabe18/generation.mp4",
       "category": "Genjutsu Presets",
@@ -370,7 +370,7 @@
       "prompt": "Velvet crimson smoke swirl transformation with dramatic theatrical spotlight."
     },
     {
-      "id": "gj12",
+      "id": "c42",
       "title": "Genjutsu Preset 12",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/acc266e5-7c08-4380-8748-b83cabfe183c/generation.mp4",
       "category": "Genjutsu Presets",
@@ -379,7 +379,7 @@
       "prompt": "Time-freeze levitation effect with suspended debris and dynamic camera push."
     },
     {
-      "id": "gj13",
+      "id": "c43",
       "title": "Genjutsu Preset 13",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/33187969-7364-48d4-b9d0-d49f14f791cd/generation.mp4",
       "category": "Genjutsu Presets",
@@ -388,7 +388,7 @@
       "prompt": "Golden alchemy transformation turning textures into shimmering metallic gold."
     },
     {
-      "id": "gj14",
+      "id": "c44",
       "title": "Genjutsu Preset 14",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2859d942-e4df-47d7-b49b-5d414819085f/generation.mp4",
       "category": "Genjutsu Presets",
@@ -397,7 +397,7 @@
       "prompt": "Neon samurai spirit aura with katana light slashes and dramatic rain."
     },
     {
-      "id": "gj15",
+      "id": "c45",
       "title": "Genjutsu Preset 15",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/1855e27b-c716-47e5-9e9f-6df6eb1d934d/generation.mp4",
       "category": "Genjutsu Presets",
@@ -406,7 +406,7 @@
       "prompt": "Surreal floating architecture backdrop with dreamlike pastel twilight skies."
     },
     {
-      "id": "gj16",
+      "id": "c46",
       "title": "Genjutsu Preset 16",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7605b795-3bf2-4093-8b06-920b56905c2c/generation.mp4",
       "category": "Genjutsu Presets",
@@ -415,7 +415,7 @@
       "prompt": "Crystal prism light dispersion casting rainbow flares across your portrait."
     },
     {
-      "id": "gj17",
+      "id": "c47",
       "title": "Genjutsu Preset 17",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/d37b6516-dd09-417a-bf94-d7e0528459af/generation.mp4",
       "category": "Genjutsu Presets",
@@ -424,7 +424,7 @@
       "prompt": "Shadow clone echo trail effect creating smooth rhythmic motion duplicates."
     },
     {
-      "id": "gj18",
+      "id": "c48",
       "title": "Genjutsu Preset 18",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b7b9812f-938c-4459-9931-b86cb490bbc7/generation.mp4",
       "category": "Genjutsu Presets",
@@ -433,7 +433,7 @@
       "prompt": "Volcanic obsidian and molten lava glow transformation with intense heat haze."
     },
     {
-      "id": "gj19",
+      "id": "c49",
       "title": "Genjutsu Preset 19",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/e8b55f9f-7b96-44ce-ac86-60eef3bc74f3/generation.mp4",
       "category": "Genjutsu Presets",
@@ -442,7 +442,7 @@
       "prompt": "Arctic frost crystallization effect with glistening ice shards and cool blue mist."
     },
     {
-      "id": "gj20",
+      "id": "c50",
       "title": "Genjutsu Preset 20",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/266649c8-9964-4498-a365-11b88c185304/generation.mp4",
       "category": "Genjutsu Presets",
@@ -451,7 +451,7 @@
       "prompt": "Origami paper-fold world transition unfolding into a vibrant 3D scene."
     },
     {
-      "id": "gj21",
+      "id": "c51",
       "title": "Genjutsu Preset 21",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9c11bdb3-37bf-43a0-926f-ecc771f22f6a/generation.mp4",
       "category": "Genjutsu Presets",
@@ -460,7 +460,7 @@
       "prompt": "Celestial eclipse halo framing your subject with dramatic corona lighting."
     },
     {
-      "id": "gj22",
+      "id": "c52",
       "title": "Genjutsu Preset 22",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/773416fc-c265-42bf-8d2f-524ceecf1e02/generation.mp4",
       "category": "Genjutsu Presets",
@@ -469,7 +469,7 @@
       "prompt": "Neon graffiti street-art animation bringing vibrant urban illustrations to life."
     },
     {
-      "id": "gj23",
+      "id": "c53",
       "title": "Genjutsu Preset 23",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/224dc310-ad0b-4e43-b992-0dfd617a499f/generation.mp4",
       "category": "Genjutsu Presets",
@@ -478,7 +478,7 @@
       "prompt": "Hyper-realistic watercolor painting morph with flowing ink bleeds on canvas."
     },
     {
-      "id": "gj24",
+      "id": "c54",
       "title": "Genjutsu Preset 24",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b8d56dd7-5633-4345-a906-0ed98a3def5e/generation.mp4",
       "category": "Genjutsu Presets",
