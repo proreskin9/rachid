@@ -27,6 +27,519 @@
     "credits": 60,
     "prompt": "High-precision full-body motion transfer with realistic fabric physics and studio clarity."
   },
+    {
+    "id": "sp_1",
+    "title": "Sports Action 1",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/be940ba4-bef0-4eb1-9552-d642c4a0dde0/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-intensity stadium spotlight with dynamic athletic motion tracking."
+  },
+  {
+    "id": "sp_2",
+    "title": "Sports Action 2",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ec38b09d-cf0c-4605-80a6-9d31b58ec91d/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Explosive slow-motion sports impact with dramatic sweat and dust particles."
+  },
+  {
+    "id": "sp_3",
+    "title": "Sports Action 3",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/4ed92de3-32b7-49a4-8a8f-235dfaa389e5/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Championship arena entrance with dramatic floodlights and smoke."
+  },
+  {
+    "id": "sp_4",
+    "title": "Sports Action 4",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/4a183163-667d-4894-a79d-10dd63f7f3e9/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fast-paced sprint speed-ramp with motion blur and crisp focus."
+  },
+  {
+    "id": "sp_5",
+    "title": "Sports Action 5",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b36f1991-8157-4533-87cc-b4c2ed72e8b9/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Adrenaline-fueled extreme sports camera sweep with bold contrast."
+  },
+  {
+    "id": "sp_6",
+    "title": "Sports Action 6",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9b80f9a9-d47c-4e45-a889-78fe39efce30/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Night match floodlight rim glow highlighting peak athletic power."
+  },
+  {
+    "id": "sp_7",
+    "title": "Sports Action 7",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/24e66847-347d-4dda-9483-4f396d6e7005/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic court-side camera orbit capturing game-winning intensity."
+  },
+  {
+    "id": "sp_8",
+    "title": "Sports Action 8",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/a7fa1049-6c68-4f16-94e6-62d333bd5973/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-energy fitness and training montage pulse with sharp zoom."
+  },
+  {
+    "id": "sp_9",
+    "title": "Sports Action 9",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9a6a748d-5034-4ff8-904e-a0e032c33417/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Cinematic low-angle athlete hero shot with dramatic lens flare."
+  },
+  {
+    "id": "sp_10",
+    "title": "Sports Action 10",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7dcb3dfb-d0d8-4487-906b-3d0705b65ecb/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Motorsport speed-streak backdrop with intense kinetic energy."
+  },
+  {
+    "id": "sp_11",
+    "title": "Sports Action 11",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2de7c1ad-63dd-4077-b65d-f3821b153711/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Electric sports broadcast graphic energy trail around your portrait."
+  },
+  {
+    "id": "sp_12",
+    "title": "Sports Action 12",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2394c9f6-82da-45f7-bd45-c22e9803b051/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Gritty locker-room tunnel walk with moody shadows and rim light."
+  },
+  {
+    "id": "sp_13",
+    "title": "Sports Action 13",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/aa9e1939-6731-4e2e-bc20-acd251fdaba7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Explosive shockwave burst on impact for martial arts and combat clips."
+  },
+  {
+    "id": "sp_14",
+    "title": "Sports Action 14",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/e98d4c7c-71f1-424e-b6f9-4eec6e7ce856/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Golden trophy victory aura with floating embers and stadium glow."
+  },
+  {
+    "id": "sp_15",
+    "title": "Sports Action 15",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/13053b13-59ac-4854-9ea9-a0cbd79d9f37/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic aerial drone-style push over an outdoor athletic field."
+  },
+  {
+    "id": "sp_16",
+    "title": "Sports Action 16",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/c9da269d-3648-4e0b-aa50-a6962477dd64/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-contrast gym spotlight highlighting muscle definition and grit."
+  },
+  {
+    "id": "sp_17",
+    "title": "Sports Action 17",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b3ad7b30-a8d3-4a43-9bee-59ffe5310b2e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Splash water-droplet freeze motion for aquatic and outdoor sports."
+  },
+  {
+    "id": "sp_18",
+    "title": "Sports Action 18",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8b24a688-f23a-467b-9f19-8d2a04512bd3/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fast whip-pan transition built for high-energy sports highlight reels."
+  },
+  {
+    "id": "sp_19",
+    "title": "Sports Action 19",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8a745bf9-9cb0-4b8b-b145-40b1c478047f/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Urban streetball concrete court aesthetic with warm sunset flare."
+  },
+  {
+    "id": "sp_20",
+    "title": "Sports Action 20",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b3582b5c-fbf2-401b-bfaa-1834ed26d945/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Alpine snow and extreme winter sports frost burst effect."
+  },
+  {
+    "id": "sp_21",
+    "title": "Sports Action 21",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/da52b600-94e5-4a7d-b0cb-105b35461b5b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Powerful chalk-dust explosion framing an intense athletic pose."
+  },
+  {
+    "id": "sp_22",
+    "title": "Sports Action 22",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/02ccd8fa-50f7-413c-baf6-c27b1a9a003e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Smooth 360-degree bullet-time freeze around mid-air action."
+  },
+  {
+    "id": "sp_23",
+    "title": "Sports Action 23",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/520164ee-1eec-4b06-9447-850a92fbd15f/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Bold jersey-reveal camera push with crisp commercial color grading."
+  },
+  {
+    "id": "sp_24",
+    "title": "Sports Action 24",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/864587bf-66e3-4b56-8431-003e019402fb/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Track-and-field finish-line burst with dramatic motion streaks."
+  },
+  {
+    "id": "sp_25",
+    "title": "Sports Action 25",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/84387101-b16e-4171-9cc3-7540d5eb704a/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Rain-soaked night pitch atmosphere with dramatic backlit droplets."
+  },
+  {
+    "id": "sp_26",
+    "title": "Sports Action 26",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ee5c28ad-5a0e-40b9-84a2-3e76e67a9094/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-impact boxing ring spotlight with smoky atmospheric depth."
+  },
+  {
+    "id": "sp_27",
+    "title": "Sports Action 27",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/3163aa6d-b168-4a1f-94b7-83b49815e6fd/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Energetic skatepark fisheye-inspired dynamic camera sweep."
+  },
+  {
+    "id": "sp_28",
+    "title": "Sports Action 28",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5f8d418c-581d-452b-a1ec-ca8f1dfb204e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sleek sports-brand commercial framing with bold kinetic zoom."
+  },
+  {
+    "id": "sp_29",
+    "title": "Sports Action 29",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9cf2dde2-dd1c-49e2-beb0-2292665bdd3b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fiery competitive spirit aura with glowing sparks and contrast."
+  },
+  {
+    "id": "sp_30",
+    "title": "Sports Action 30",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/4f965684-5a11-4bb6-b809-551516daa93e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Outdoor trail-running sunrise burst with warm golden lens flare."
+  },
+  {
+    "id": "sp_31",
+    "title": "Sports Action 31",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/306c6720-701c-4bca-95bc-885b7279f78e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Rapid beat-synced sports cut transition for viral highlights."
+  },
+  {
+    "id": "sp_32",
+    "title": "Sports Action 32",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/afbc43a7-b04b-47b9-97e9-7cf81eaa6fab/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Crisp cycling peloton speed-blur with aerodynamic motion lines."
+  },
+  {
+    "id": "sp_33",
+    "title": "Sports Action 33",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/afbf5d56-8688-4674-8057-53bed2e769ec/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dramatic stadium turf kick-up in ultra-smooth slow motion."
+  },
+  {
+    "id": "sp_34",
+    "title": "Sports Action 34",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2a6aba8b-9916-4b10-9fff-567b62361699/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Electric blue energy surge highlighting athletic speed and agility."
+  },
+  {
+    "id": "sp_35",
+    "title": "Sports Action 35",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7afbdb3d-0249-42f6-b702-ac417058e04e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Cinematic documentary athlete portrait push with natural grit."
+  },
+  {
+    "id": "sp_36",
+    "title": "Sports Action 36",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5bcd971a-5f79-4da5-82e4-33ef85e89ea6/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Surfing ocean wave crest splash with vibrant sunlight refraction."
+  },
+  {
+    "id": "sp_37",
+    "title": "Sports Action 37",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/0101cb9a-ea73-4e3c-8098-3de8073989c0/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-voltage esports and pro-gaming arena light burst."
+  },
+  {
+    "id": "sp_38",
+    "title": "Sports Action 38",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/43c29690-3fbb-4366-9907-5da536736abb/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sleek tennis court baseline sweep with crisp depth of field."
+  },
+  {
+    "id": "sp_39",
+    "title": "Sports Action 39",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/d77f8185-f5b6-4f18-b094-bc075ae645cf/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Bold monochrome-to-color sports hype transition."
+  },
+  {
+    "id": "sp_40",
+    "title": "Sports Action 40",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/26cee29c-4304-4706-aa77-7a65a3fb20b7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Explosive speed-ramp push engineered for game-day announcements."
+  },
+  {
+    "id": "sp_41",
+    "title": "Sports Action 41",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/d4447e19-b0e0-44fb-ab1a-470a51809a68/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Mountain peak summit climb reveal with sweeping panoramic clouds."
+  },
+  {
+    "id": "sp_42",
+    "title": "Sports Action 42",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9ec5450a-7b53-47bb-b149-d59b0bcf4403/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Intense CrossFit and strength training camera shake impact."
+  },
+  {
+    "id": "sp_43",
+    "title": "Sports Action 43",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/1875fc3d-962b-4587-97aa-09274d320491/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fluid rotational tracking shot around an active athletic stance."
+  },
+  {
+    "id": "sp_44",
+    "title": "Sports Action 44",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/c55ee049-6452-40b7-8647-24246a926690/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Vibrant neon stadium light streaks framing your portrait."
+  },
+  {
+    "id": "sp_45",
+    "title": "Sports Action 45",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/6ea47ac3-08c6-48cc-b713-56d280982141/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dramatic slow-motion leap suspension with crisp rim lighting."
+  },
+  {
+    "id": "sp_46",
+    "title": "Sports Action 46",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/561cb0d7-159e-4b85-9954-158d6ae5eaaf/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Desert rally off-road dust cloud burst with bold cinematic color."
+  },
+  {
+    "id": "sp_47",
+    "title": "Sports Action 47",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/d727a768-0d37-49d2-bbcd-dbee698f86b7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-contrast studio sports commercial close-up dolly push."
+  },
+  {
+    "id": "sp_48",
+    "title": "Sports Action 48",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/f60c9e9e-3d33-4729-a1df-f567abe29f11/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic vertical reel opener built for fitness creators."
+  },
+  {
+    "id": "sp_49",
+    "title": "Sports Action 49",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/6a37597d-d43b-491c-8ccb-73a61e30de1f/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Championship confetti celebration shower with warm arena lights."
+  },
+  {
+    "id": "sp_50",
+    "title": "Sports Action 50",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/397926c5-f26a-453e-bb0f-bb6261a0877f/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fast-paced parkour rooftop camera glide with dramatic depth."
+  },
+  {
+    "id": "sp_51",
+    "title": "Sports Action 51",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/44cd4555-3f25-47a9-9171-5a45ae10e285/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sleek sportswear lookbook transition with crisp studio shadows."
+  },
+  {
+    "id": "sp_52",
+    "title": "Sports Action 52",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b1ed019c-fe04-4d7a-bb00-0fa352d4533c/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Intense sprint-start crouch reveal with explosive forward zoom."
+  },
+  {
+    "id": "sp_53",
+    "title": "Sports Action 53",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/afa095fa-8a68-44b2-bfc5-997e082a9d9b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-energy rhythmic pulse effect tailored for workout reels."
+  },
+  {
+    "id": "sp_54",
+    "title": "Sports Action 54",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/0b3513ad-dbc2-43c2-b480-34f9f4683e2e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dramatic fog-filled arena spotlight with bold silhouette framing."
+  },
+  {
+    "id": "sp_55",
+    "title": "Sports Action 55",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bc9e6a2e-7c9f-402f-a5cb-dd51788fc3c6/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Crisp slow-motion ball-spin and trajectory energy trail."
+  },
+  {
+    "id": "sp_56",
+    "title": "Sports Action 56",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7dfc9ee0-c6d7-4313-b107-eacac0be27d4/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Epic stadium crowd roar visual wave with vibrant color pop."
+  },
+  {
+    "id": "sp_57",
+    "title": "Sports Action 57",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/15370db0-c60e-496a-9d21-5af7ee6f8c2d/generation-genjutsu-h264-600-v1.mp4",
+    "category": "sports",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Polished pro-athlete outro shot with dramatic twilight lighting."
+  },
   {
     "id": "sd_4",
     "title": "Seedance 2.0 Motion 4",
