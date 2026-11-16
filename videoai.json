@@ -54,6 +54,537 @@
     "credits": 55,
     "prompt": "Championship arena entrance with dramatic floodlights and smoke."
   },
+    {
+    "id": "wf_1",
+    "title": "With Friends 1",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bba15f0f-898a-4ab6-b2c4-e4ff8a8f3dc6/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Warm golden-hour group hangout with natural candid smiles and soft lens flare."
+  },
+  {
+    "id": "wf_2",
+    "title": "With Friends 2",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/dcc77a0c-0ef2-444a-a9a5-bab7fce05865/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Energetic group celebration burst with confetti and dynamic camera bounce."
+  },
+  {
+    "id": "wf_3",
+    "title": "With Friends 3",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/3e301c63-7edc-4094-b8ce-bafdd9440b36/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Rooftop sunset party vibe with glowing city lights and smooth parallax glide."
+  },
+  {
+    "id": "wf_4",
+    "title": "With Friends 4",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9a513038-dbe1-4739-9c3c-cca65fb7efb3/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Nostalgic retro film camcorder zoom capturing spontaneous crew moments."
+  },
+  {
+    "id": "wf_5",
+    "title": "With Friends 5",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/725258bb-55cf-4a9a-a906-fbf8a4a5e752/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Playful group high-five freeze-frame with vibrant comic-style energy."
+  },
+  {
+    "id": "wf_6",
+    "title": "With Friends 6",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/78054dd0-a17c-473d-8880-64d06f6ccdab/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Beach bonfire night glow with warm sparks and cozy coastal atmosphere."
+  },
+  {
+    "id": "wf_7",
+    "title": "With Friends 7",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/25acebb1-6c6f-4dc3-8f59-1b980d075732/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Road-trip convertible cruise with sunlit sky and upbeat motion blur."
+  },
+  {
+    "id": "wf_8",
+    "title": "With Friends 8",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8bc30ea1-0367-4341-b6d3-e4c817406901/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Neon night-out club lights pulsing rhythmically around your squad."
+  },
+  {
+    "id": "wf_9",
+    "title": "With Friends 9",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/26c0d704-4564-4e4d-ad00-9012d06801b8/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Smooth 360-degree orbital camera sweep around a joyful group pose."
+  },
+  {
+    "id": "wf_10",
+    "title": "With Friends 10",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/fca5f42d-e13d-49c7-a645-bc4d5228ce53/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Polaroid memory drop bringing group snapshots into lively motion."
+  },
+  {
+    "id": "wf_11",
+    "title": "With Friends 11",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9cfca221-42e7-4ff9-938c-e5ecc3536dea/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Festival crowd energy with colorful light beams and atmospheric haze."
+  },
+  {
+    "id": "wf_12",
+    "title": "With Friends 12",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bbda1982-183c-47b7-ad64-ea9ec282f4b4/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Cozy coffee-shop window light with warm cinematic film grain."
+  },
+  {
+    "id": "wf_13",
+    "title": "With Friends 13",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/6510dbc3-ef0c-4883-af9d-c412cf4aac32/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic squad walk-up slow-motion entrance with bold rim lighting."
+  },
+  {
+    "id": "wf_14",
+    "title": "With Friends 14",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9b290b9a-4484-441f-bea1-8c08da0a5f4d/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Playful holographic sticker and sparkle burst for best-friend reels."
+  },
+  {
+    "id": "wf_15",
+    "title": "With Friends 15",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/c215e32c-01d6-40ef-9fac-4829da86ef48/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Summer poolside splash freeze with bright sunlit reflections."
+  },
+  {
+    "id": "wf_16",
+    "title": "With Friends 16",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/a0a3a8fa-fa02-4eec-b724-ebc3cf4af15b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Urban street-style group lookbook with crisp whip-pan transitions."
+  },
+  {
+    "id": "wf_17",
+    "title": "With Friends 17",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/c9244843-8033-4104-9355-3908c59d2d91/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Birthday sparkler glow framing a joyful celebration moment."
+  },
+  {
+    "id": "wf_18",
+    "title": "With Friends 18",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/f31e4eec-0b72-49b8-9e8d-7c85dd49b266/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dreamy pastel sky backdrop turning group portraits into art."
+  },
+  {
+    "id": "wf_19",
+    "title": "With Friends 19",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ef7c25f9-e5ee-4aed-9099-c54a5720f8fe/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-energy concert stage strobe and vibrant crowd atmosphere."
+  },
+  {
+    "id": "wf_20",
+    "title": "With Friends 20",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/938ac1cc-4d76-4507-8561-c4c4ae3ddd27/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Warm autumn park stroll with drifting golden leaves and bokeh."
+  },
+  {
+    "id": "wf_21",
+    "title": "With Friends 21",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/244964c6-c804-450d-981b-3dfceae8e4a9/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic split-screen crew transition synced to upbeat rhythms."
+  },
+  {
+    "id": "wf_22",
+    "title": "With Friends 22",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/1e185e67-4e08-4986-ae9f-0702cd33bfe2/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Arcade neon glow with playful retro gaming light accents."
+  },
+  {
+    "id": "wf_23",
+    "title": "With Friends 23",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b97fb848-22f7-4db5-ae27-ba31e00c94cb/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Cinematic wide-angle dolly push capturing genuine laughter."
+  },
+  {
+    "id": "wf_24",
+    "title": "With Friends 24",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/bfbbd2be-87be-41fe-b4ee-be2ae42c9253/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Starry night camping glow with lantern warmth and serene mist."
+  },
+  {
+    "id": "wf_25",
+    "title": "With Friends 25",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/659b2dfb-6546-4801-9cd8-e25a0f0e5d28/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Bold 3D pop-out frame illusion elevating group selfies."
+  },
+  {
+    "id": "wf_26",
+    "title": "With Friends 26",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/99eaee46-df69-462b-98d7-03d4603d9b3e/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sun-drenched picnic meadow with soft lens flare and breeze."
+  },
+  {
+    "id": "wf_27",
+    "title": "With Friends 27",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/dc518f21-dbb4-4ac6-b238-19d6eb8979b3/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sleek editorial group portrait with dramatic studio highlights."
+  },
+  {
+    "id": "wf_28",
+    "title": "With Friends 28",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/f5cf5597-9238-4826-ba89-8e0bc5ba7e9c/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Vibrant carnival Ferris wheel lights spinning in soft bokeh."
+  },
+  {
+    "id": "wf_29",
+    "title": "With Friends 29",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8942a205-a369-4b2f-a3aa-9c7846d94dbd/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Playful cartoon-outline aura dancing around each person."
+  },
+  {
+    "id": "wf_30",
+    "title": "With Friends 30",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b241a3dd-1a48-49af-8c11-a923f3f0e927/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Winter ski-lodge snow flurry with warm cozy twilight glow."
+  },
+  {
+    "id": "wf_31",
+    "title": "With Friends 31",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/3574c702-b87a-47ad-8647-c6e325ccf5c1/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fast kinetic zoom-punch transition built for viral group challenges."
+  },
+  {
+    "id": "wf_32",
+    "title": "With Friends 32",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/e09ac78a-573c-4fed-aab5-f1431272bbcd/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Warm film-burn light leak transition for nostalgic travel recaps."
+  },
+  {
+    "id": "wf_33",
+    "title": "With Friends 33",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/507a4906-08ba-4a44-b749-a1d82ff5b218/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Golden sunset yacht deck breeze with shimmering water reflections."
+  },
+  {
+    "id": "wf_34",
+    "title": "With Friends 34",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/8c61a259-c5aa-4ac2-90f8-c23a5a2061c1/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Energetic street-dance circle spotlight with rhythmic camera pulse."
+  },
+  {
+    "id": "wf_35",
+    "title": "With Friends 35",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/da133e11-777b-463d-a8fe-bd74775d1077/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Crisp hyper-lapse city crosswalk motion keeping your group sharp."
+  },
+  {
+    "id": "wf_36",
+    "title": "With Friends 36",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b5d4176e-9128-4c17-884a-92783da42e14/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Soft bokeh fairy-lights evening dinner atmosphere."
+  },
+  {
+    "id": "wf_37",
+    "title": "With Friends 37",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/28bd9cb7-4db4-4e20-b135-cbd6a22567c1/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Vibrant color-splash transformation highlighting shared joy."
+  },
+  {
+    "id": "wf_38",
+    "title": "With Friends 38",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/40f121c4-2e73-427e-a89e-10aefb414e14/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Smooth 3D card-flip reveal transitioning between group poses."
+  },
+  {
+    "id": "wf_39",
+    "title": "With Friends 39",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/91777507-9678-49cb-9445-6ba798d6a036/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Retro 90s sitcom intro vibe with warm saturated film colors."
+  },
+  {
+    "id": "wf_40",
+    "title": "With Friends 40",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5d6dd43c-8206-48df-92be-1d3c66af0587/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dynamic slow-motion jump freeze with dramatic sky backdrop."
+  },
+  {
+    "id": "wf_41",
+    "title": "With Friends 41",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/2b2e8c5e-5566-456a-915c-075640f431a7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Glowing neon halo trails weaving playfully between friends."
+  },
+  {
+    "id": "wf_42",
+    "title": "With Friends 42",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/14620ff3-6414-4082-a677-58e19f764a6d/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Scenic mountain overlook sunrise with sweeping cloud drift."
+  },
+  {
+    "id": "wf_43",
+    "title": "With Friends 43",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/924cca16-c22c-4ff7-af7b-d8494fce1a20/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Playful animated doodle accents popping around candid expressions."
+  },
+  {
+    "id": "wf_44",
+    "title": "With Friends 44",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/08aeb77c-da32-45e9-aafd-2cac66eb289a/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "High-contrast monochrome-to-color group glow-up reveal."
+  },
+  {
+    "id": "wf_45",
+    "title": "With Friends 45",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b9c7c6e8-df83-4368-a919-5dc9a9c8b6df/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Tropical island palm breeze with bright turquoise water tones."
+  },
+  {
+    "id": "wf_46",
+    "title": "With Friends 46",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/6c8b1eef-d840-4db2-92bf-3647ce67af91/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dramatic cinema lens push for unforgettable milestone celebrations."
+  },
+  {
+    "id": "wf_47",
+    "title": "With Friends 47",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/ac73d1a5-991a-4da4-98f5-1d18ba783ac7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Cozy living-room game night glow with warm ambient highlights."
+  },
+  {
+    "id": "wf_48",
+    "title": "With Friends 48",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/9c052d09-6b14-43cb-83ac-2a50a4afc046/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Fast beat-synced flash transition tailored for party recaps."
+  },
+  {
+    "id": "wf_49",
+    "title": "With Friends 49",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/314a0475-f946-46ec-9803-fcf3cef6cd2b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Dreamy prism rainbow flare casting warm light across your crew."
+  },
+  {
+    "id": "wf_50",
+    "title": "With Friends 50",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/f7494ad2-0828-46a4-b842-1a8d3dd360ed/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Retro photo-booth strip animation with lively candid poses."
+  },
+  {
+    "id": "wf_51",
+    "title": "With Friends 51",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/144e6a7e-5ba3-456e-9dbe-ff7c3fe5708b/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Vibrant Holi-style color powder burst in crisp slow motion."
+  },
+  {
+    "id": "wf_52",
+    "title": "With Friends 52",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b14acb5a-9139-438a-a435-2b49abefe946/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Sleek rooftop dinner twilight with soft city skyline bokeh."
+  },
+  {
+    "id": "wf_53",
+    "title": "With Friends 53",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/5b8312f7-c360-4643-9227-c05f77e008ba/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Energetic skate-crew tracking glide with warm afternoon sun."
+  },
+  {
+    "id": "wf_54",
+    "title": "With Friends 54",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/33708c90-8afc-4816-9665-fe7cc95146aa/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Luminous stardust trail wrapping around a group hug."
+  },
+  {
+    "id": "wf_55",
+    "title": "With Friends 55",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/c2dc8c1d-05a6-4d02-b3ba-3882a8b74f70/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Playful comic-book panel split highlighting each friend's vibe."
+  },
+  {
+    "id": "wf_56",
+    "title": "With Friends 56",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/b7b9812f-938c-4459-9931-b86cb490bbc7/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Golden fireworks night sky burst celebrating special reunions."
+  },
+  {
+    "id": "wf_57",
+    "title": "With Friends 57",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/24117210-0ae9-4d58-861a-bd72ae2b3493/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Smooth handheld documentary push with authentic warm tones."
+  },
+  {
+    "id": "wf_58",
+    "title": "With Friends 58",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/19b84b4a-462f-4d56-af25-e121c3def049/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Vibrant neon heart and light-streak trail for bestie reels."
+  },
+  {
+    "id": "wf_59",
+    "title": "With Friends 59",
+    "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/7c271f67-9651-4719-a5a3-994f273babdf/generation-genjutsu-h264-600-v1.mp4",
+    "category": "with friends",
+    "isPro": true,
+    "credits": 55,
+    "prompt": "Polished cinematic group outro with rich color grading and depth."
+  },
   {
     "id": "sp_4",
     "title": "Sports Action 4",
