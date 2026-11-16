@@ -1038,6 +1038,420 @@
       "prompt": "High-converting commercial video ad with bold pacing and studio-grade product lighting."
     },
     {
+    "id": "ads_1",
+    "title": "Ads Studio Commercial 1",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/home/tv/screen.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-converting TV commercial showcase with studio lighting and bold product framing."
+  },
+  {
+    "id": "ads_2",
+    "title": "Ads Studio Commercial 2",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/fa1fbd72-497e-4114-be11-4cb0930f87fd.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sleek product reveal ad template engineered for social media conversions."
+  },
+  {
+    "id": "ads_3",
+    "title": "Ads Studio Commercial 3",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ads-story-presets/e0f51e78-6510-4ffa-8065-de85755b4a71.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Dynamic vertical story ad with eye-catching motion hooks and clean brand aesthetics."
+  },
+  {
+    "id": "ads_4",
+    "title": "Ads Studio Commercial 4",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/home/tv/screen-2.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Broadcast-grade commercial promo preset with smooth camera sweep and crisp highlights."
+  },
+  {
+    "id": "ads_5",
+    "title": "Ads Studio Commercial 5",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/0d7865c1-2c87-456d-885c-4aa98c144cda.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Modern e-commerce product spotlight with dramatic depth of field and studio polish."
+  },
+  {
+    "id": "ads_6",
+    "title": "Ads Studio Commercial 6",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ads-story-presets/68749e22-1b2c-4cc2-97da-4ee82fc46425.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Engaging social story ad template designed to boost click-through rates."
+  },
+  {
+    "id": "ads_7",
+    "title": "Ads Studio Commercial 7",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/b780c7bd-2447-43ac-a9d9-062f98f53cf2.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Luxury brand presentation with fluid orbital camera motion and warm reflections."
+  },
+  {
+    "id": "ads_8",
+    "title": "Ads Studio Commercial 8",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/98597446-42d1-4655-b981-caab7ccadda3.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Fast-paced promotional showcase highlighting product features with bold transitions."
+  },
+  {
+    "id": "ads_9",
+    "title": "Ads Studio Commercial 9",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/89c07699-0767-4f7c-8d69-d9153ec63d51.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Minimalist commercial studio backdrop with soft shadows and crisp product focus."
+  },
+  {
+    "id": "ads_10",
+    "title": "Ads Studio Commercial 10",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/18381273-94f1-4a27-85da-9ad6745fa447.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-energy lifestyle ad preset blending natural lighting with dynamic framing."
+  },
+  {
+    "id": "ads_11",
+    "title": "Ads Studio Commercial 11",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/df7b1513-3411-4a2c-956a-0d303466ba29.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sleek tech and gadget commercial animation with futuristic light accents."
+  },
+  {
+    "id": "ads_12",
+    "title": "Ads Studio Commercial 12",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/d35a31b4-ae07-4534-82b0-e5ed0c64c82d.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Appetizing culinary and beverage ad showcase with vibrant color grading."
+  },
+  {
+    "id": "ads_13",
+    "title": "Ads Studio Commercial 13",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/e8ff8009-531f-4aff-a6b3-7d9b43fce828.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Dramatic close-up product hero shot with smooth dolly-in camera push."
+  },
+  {
+    "id": "ads_14",
+    "title": "Ads Studio Commercial 14",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/d202fe99-039e-421e-934e-8d7ab915130d.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Clean cosmetic and skincare commercial preset with glowing aesthetic highlights."
+  },
+  {
+    "id": "ads_15",
+    "title": "Ads Studio Commercial 15",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/e2a94365-6fb2-4c2a-a6ca-446de573a2cb.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Bold retail promo video template engineered for instant scroll-stopping impact."
+  },
+  {
+    "id": "ads_16",
+    "title": "Ads Studio Commercial 16",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/3bc7f80f-d71d-4ade-bb91-4950ae5121aa.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Editorial fashion and accessory ad lookbook with fluid camera movement."
+  },
+  {
+    "id": "ads_17",
+    "title": "Ads Studio Commercial 17",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/2ae1c3f1-a8c5-48d6-b011-b138cb4166ad.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Premium studio podium reveal with subtle rim lighting and crisp reflections."
+  },
+  {
+    "id": "ads_18",
+    "title": "Ads Studio Commercial 18",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/4cb83f68-8846-425e-8592-c9b03cca3daa.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Dynamic UGC-style product demonstration optimized for social ad campaigns."
+  },
+  {
+    "id": "ads_19",
+    "title": "Ads Studio Commercial 19",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/e0e17089-e13a-44c9-b200-fe68c328e65e.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Cinematic slow-motion splash and texture showcase for standout brand ads."
+  },
+  {
+    "id": "ads_20",
+    "title": "Ads Studio Commercial 20",
+    "videoUrl": "https://static-public-media.higgsfield.ai/ads-story-presets/51589bd5-ca0d-459a-b655-870c08fd9176.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-retention vertical story promo with rhythmic transitions and clean framing."
+  },
+  {
+    "id": "ads_21",
+    "title": "Ads Studio Commercial 21",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/2f753965-a6d3-4ce4-89dc-8d9c90f9b9d6.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sophisticated dark-mode product commercial with dramatic spotlight contrast."
+  },
+  {
+    "id": "ads_22",
+    "title": "Ads Studio Commercial 22",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/6aeef974-30aa-4d07-8f0d-6f62098c9861.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Warm sunlit lifestyle setting bringing authenticity to brand storytelling."
+  },
+  {
+    "id": "ads_23",
+    "title": "Ads Studio Commercial 23",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/254e0821-639f-47c3-933e-b9f61192e272.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Energetic kinetic zoom transition built for high-converting product launches."
+  },
+  {
+    "id": "ads_24",
+    "title": "Ads Studio Commercial 24",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/e6869614-b737-40a1-9d53-ffbb60e7640e.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sleek architectural backdrop elevating modern consumer product presentations."
+  },
+  {
+    "id": "ads_25",
+    "title": "Ads Studio Commercial 25",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/ce7c9b5c-f2e4-48c2-b45f-1892cb1c16a6.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Smooth 360-degree product rotation with studio-grade lighting clarity."
+  },
+  {
+    "id": "ads_26",
+    "title": "Ads Studio Commercial 26",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/59576b34-c4cd-406c-be88-4f9302dda2c0.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Vibrant neon-accented promo template ideal for gaming and tech ads."
+  },
+  {
+    "id": "ads_27",
+    "title": "Ads Studio Commercial 27",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/ff4f2003-467c-40cd-b348-29f3d240d66e.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Crisp minimalist packaging reveal with soft depth-of-field background blur."
+  },
+  {
+    "id": "ads_28",
+    "title": "Ads Studio Commercial 28",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/72b4e9eb-3bd5-4531-b5ef-c42178484c52.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-impact visual hook engineered to maximize ad watch time and engagement."
+  },
+  {
+    "id": "ads_29",
+    "title": "Ads Studio Commercial 29",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/348fe7c5-49d7-4c47-8fdb-dfdd41d66e65.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Elegant golden-hour outdoor commercial setting with natural warmth."
+  },
+  {
+    "id": "ads_30",
+    "title": "Ads Studio Commercial 30",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/56e9c7d0-657b-42f0-9f5b-02c1c6fc9ea9.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Dynamic split-motion product showcase for modern social commerce."
+  },
+  {
+    "id": "ads_31",
+    "title": "Ads Studio Commercial 31",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/bfc08809-2039-4b5e-b653-3a883015b1a5.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Studio-lit fragrance and luxury item reveal with atmospheric mist."
+  },
+  {
+    "id": "ads_32",
+    "title": "Ads Studio Commercial 32",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/e16e0715-f9e4-4622-af54-47fb0cd70dfb.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Bold graphic commercial framing with smooth parallax camera glide."
+  },
+  {
+    "id": "ads_33",
+    "title": "Ads Studio Commercial 33",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/7fed9b63-f014-47e9-8821-5c16294d3f8b.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Fresh organic wellness product ad with bright, airy studio aesthetics."
+  },
+  {
+    "id": "ads_34",
+    "title": "Ads Studio Commercial 34",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/0370224d-2272-447c-aeb2-b702acadadc5.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Cinematic wide-to-tight focus pull highlighting fine product craftsmanship."
+  },
+  {
+    "id": "ads_35",
+    "title": "Ads Studio Commercial 35",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/87ab07d9-8a2a-449a-872c-332243926aa6.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Fast beat-synced commercial edit tailored for performance marketing."
+  },
+  {
+    "id": "ads_36",
+    "title": "Ads Studio Commercial 36",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/1093d709-3876-4a34-be8a-35f62cb964ce.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sleek metallic reflection showcase for watches, jewelry, and accessories."
+  },
+  {
+    "id": "ads_37",
+    "title": "Ads Studio Commercial 37",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/b9656109-f18b-49d0-b91e-1cbf07c52bf8.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-contrast studio sweep turning static product shots into TV-ready ads."
+  },
+  {
+    "id": "ads_38",
+    "title": "Ads Studio Commercial 38",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/ca1532f3-b026-4b9f-add8-2ae8f00a5fab.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Modern home and interior product commercial with soft natural window light."
+  },
+  {
+    "id": "ads_39",
+    "title": "Ads Studio Commercial 39",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/df054a13-88bf-4192-bc2b-755d98da6567.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Energetic sportswear and active lifestyle ad with crisp motion tracking."
+  },
+  {
+    "id": "ads_40",
+    "title": "Ads Studio Commercial 40",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/a8d91691-b2ac-4085-93dd-09fadaf0eb26.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Smooth floating levitation effect giving products a futuristic commercial edge."
+  },
+  {
+    "id": "ads_41",
+    "title": "Ads Studio Commercial 41",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/692e08ad-5b65-4a5f-b0e5-918dbfae2f77.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Artistic light-beam reveal engineered for standout brand launch campaigns."
+  },
+  {
+    "id": "ads_42",
+    "title": "Ads Studio Commercial 42",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/9bb7e36a-c92a-4359-b8fd-711fd195a329.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Clean pastel studio backdrop ideal for beauty, fashion, and gift ads."
+  },
+  {
+    "id": "ads_43",
+    "title": "Ads Studio Commercial 43",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/eaa9e182-547a-4426-a86f-c4d678e336ac.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "High-retention unboxing and reveal motion preset for e-commerce brands."
+  },
+  {
+    "id": "ads_44",
+    "title": "Ads Studio Commercial 44",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/9a0cb893-62f9-4b70-bad1-5854c7c23ae7.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Dramatic cinema-lens camera push with rich color grading and depth."
+  },
+  {
+    "id": "ads_45",
+    "title": "Ads Studio Commercial 45",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/98ed03e2-da68-4d2e-b882-5471c0e91643.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Sleek digital product and app showcase with smooth 3D screen perspective."
+  },
+  {
+    "id": "ads_46",
+    "title": "Ads Studio Commercial 46",
+    "videoUrl": "https://static.higgsfield.ai/ads-studio/preset-previews/d6d7122f-4873-4ec9-bdb9-4aef7bad1487.mp4",
+    "category": "ads-studio",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Polished commercial closing shot designed to drive strong brand recall."
+  },
+    {
       "id": "b4",
       "title": "Luxury Product Spotlight",
       "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/user_3BuPFKmNsBjkEgZ5LeOvNlL8ShO/hf_20260415_014636_4873f538-b114-48c3-b604-05e32945d184.mp4",
