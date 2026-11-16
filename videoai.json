@@ -279,124 +279,8 @@
     "credits": 60,
     "prompt": "Fluid freestyle groove preset transforming static portraits into lively reels."
   },
-  {
-    "id": "sd_32",
-    "title": "Seedance 2.0 Motion 32",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203123_9265dacc-f2e5-4550-a3ad-f6fc576ec671_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Ultra-high-quality cinematic choreography with lifelike motion fluidity."
-  },
-  {
-    "id": "sd_33",
-    "title": "Seedance 2.0 Motion 33",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203140_95d654f0-9c43-4f35-a901-1dbca0539148_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "High-definition expressive dance performance with smooth camera tracking."
-  },
-  {
-    "id": "sd_34",
-    "title": "Seedance 2.0 Motion 34",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203136_5c784277-f497-475f-bcf6-9395695becb9_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Crisp studio-grade rhythmic movement with realistic lighting and shadow depth."
-  },
-  {
-    "id": "sd_35",
-    "title": "Seedance 2.0 Motion 35",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260409_094524_7d9da05b-c053-48dd-9cb1-07755fd59ee7_min.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 60,
-    "prompt": "Energetic social media dance hook engineered for immediate viewer engagement."
-  },
-  {
-    "id": "sd_36",
-    "title": "Seedance 2.0 Motion 36",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260409_094605_56983f32-66fe-48db-ad3c-93c03a53c404_min.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 60,
-    "prompt": "Smooth rhythmic body-roll and gesture sequence with natural pacing."
-  },
-  {
-    "id": "sd_37",
-    "title": "Seedance 2.0 Motion 37",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203052_4a445037-cfe4-4dc1-8bcd-0994d98a6261_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "High-resolution dynamic choreography with seamless temporal consistency."
-  },
-  {
-    "id": "sd_38",
-    "title": "Seedance 2.0 Motion 38",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203108_7dff54c7-2942-40dc-b1a1-18a2cd8bf36d_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Cinematic full-body motion synthesis with rich color grading and crisp focus."
-  },
-  {
-    "id": "sd_39",
-    "title": "Seedance 2.0 Motion 39",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203028_e221c640-7a9b-4380-87ce-92b1e91d4d8a_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Expressive high-definition dance sequence with lifelike facial animation."
-  },
-  {
-    "id": "sd_40",
-    "title": "Seedance 2.0 Motion 40",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203041_504d6417-0215-4e01-98b6-434293f3d596_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Fluid contemporary performance with realistic fabric physics and studio polish."
-  },
-  {
-    "id": "sd_41",
-    "title": "Seedance 2.0 Motion 41",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203048_4d65f51e-7818-4dc4-921b-407275cdd301_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Dynamic beat-synced choreography rendered in sharp high-definition clarity."
-  },
-  {
-    "id": "sd_42",
-    "title": "Seedance 2.0 Motion 42",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203044_8d9c534c-98ec-437a-a6ba-aa9691b6629d_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Smooth camera glide paired with energetic street-style motion dynamics."
-  },
-  {
-    "id": "sd_43",
-    "title": "Seedance 2.0 Motion 43",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_191010_8424f015-c36f-446a-9826-61bf8d429b93_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "High-precision motion transfer bringing static portraits to life with natural rhythm."
-  },
-  {
-    "id": "sd_44",
-    "title": "Seedance 2.0 Motion 44",
-    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_185039_7d39b550-f513-4093-bec0-cab3f8892c2a_rhhq.mp4",
-    "category": "Seedance 2.0",
-    "isPro": true,
-    "credits": 65,
-    "prompt": "Cinematic dance showcase with dramatic lighting and fluid body articulation."
-  },
-    {
+
+        {
     "id": "gi_1",
     "title": "Genjutsu Illusion 1",
     "videoUrl": "https://d8j0ntlcm91z4.cloudfront.net/community-presets/55919c4d-8aa9-44a0-942b-0e0bd8923a6d/generation-genjutsu-h264-600-v1.mp4",
@@ -647,11 +531,7 @@
     "isPro": true,
     "credits": 55,
     "prompt": "Surreal celestial dust swirl transforming your photo into living art."
-  }
-]
-2. الفئة الثانية: "category": "Neon & Cyber FX" (28 عنصر)
-JSON
-[
+  },
   {
     "id": "nc_1",
     "title": "Neon Cyber FX 1",
@@ -903,11 +783,7 @@ JSON
     "isPro": true,
     "credits": 55,
     "prompt": "High-impact digital warp effect engineered for viral tech reels."
-  }
-]
-3. الفئة الثالثة: "category": "Fantasy & Sci-Fi" (28 عنصر)
-JSON
-[
+  },
   {
     "id": "fs_1",
     "title": "Fantasy & Sci-Fi 1",
@@ -1159,11 +1035,7 @@ JSON
     "isPro": true,
     "credits": 60,
     "prompt": "Epic cinematic dimension gate opening with swirling mist and light."
-  }
-]
-4. الفئة الرابعة: "category": "Artistic & Morph" (28 عنصر)
-JSON
-[
+  },
   {
     "id": "am_1",
     "title": "Artistic Morph 1",
@@ -1415,11 +1287,7 @@ JSON
     "isPro": true,
     "credits": 50,
     "prompt": "Luminous aurora ink swirl blending rich jewel tones smoothly."
-  }
-]
-5. الفئة الخامسة: "category": "Cinematic Transitions" (27 عنصر)
-JSON
-[
+  },
   {
     "id": "ct_1",
     "title": "Cinematic Transition 1",
@@ -1662,11 +1530,7 @@ JSON
     "isPro": true,
     "credits": 55,
     "prompt": "Polished widescreen cinema fade with rich color grading."
-  }
-]
-6. الفئة السادسة: "category": "Viral CreatorFX" (27 عنصر)
-JSON
-[
+  },
   {
     "id": "vc_1",
     "title": "Viral CreatorFX 1",
@@ -1909,6 +1773,124 @@ JSON
     "isPro": true,
     "credits": 50,
     "prompt": "Polished viral-ready finish with vibrant color pop and depth."
+  },
+    
+  {
+    "id": "sd_32",
+    "title": "Seedance 2.0 Motion 32",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203123_9265dacc-f2e5-4550-a3ad-f6fc576ec671_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Ultra-high-quality cinematic choreography with lifelike motion fluidity."
+  },
+  {
+    "id": "sd_33",
+    "title": "Seedance 2.0 Motion 33",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203140_95d654f0-9c43-4f35-a901-1dbca0539148_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "High-definition expressive dance performance with smooth camera tracking."
+  },
+  {
+    "id": "sd_34",
+    "title": "Seedance 2.0 Motion 34",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203136_5c784277-f497-475f-bcf6-9395695becb9_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Crisp studio-grade rhythmic movement with realistic lighting and shadow depth."
+  },
+  {
+    "id": "sd_35",
+    "title": "Seedance 2.0 Motion 35",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260409_094524_7d9da05b-c053-48dd-9cb1-07755fd59ee7_min.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Energetic social media dance hook engineered for immediate viewer engagement."
+  },
+  {
+    "id": "sd_36",
+    "title": "Seedance 2.0 Motion 36",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260409_094605_56983f32-66fe-48db-ad3c-93c03a53c404_min.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 60,
+    "prompt": "Smooth rhythmic body-roll and gesture sequence with natural pacing."
+  },
+  {
+    "id": "sd_37",
+    "title": "Seedance 2.0 Motion 37",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203052_4a445037-cfe4-4dc1-8bcd-0994d98a6261_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "High-resolution dynamic choreography with seamless temporal consistency."
+  },
+  {
+    "id": "sd_38",
+    "title": "Seedance 2.0 Motion 38",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203108_7dff54c7-2942-40dc-b1a1-18a2cd8bf36d_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Cinematic full-body motion synthesis with rich color grading and crisp focus."
+  },
+  {
+    "id": "sd_39",
+    "title": "Seedance 2.0 Motion 39",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203028_e221c640-7a9b-4380-87ce-92b1e91d4d8a_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Expressive high-definition dance sequence with lifelike facial animation."
+  },
+  {
+    "id": "sd_40",
+    "title": "Seedance 2.0 Motion 40",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203041_504d6417-0215-4e01-98b6-434293f3d596_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Fluid contemporary performance with realistic fabric physics and studio polish."
+  },
+  {
+    "id": "sd_41",
+    "title": "Seedance 2.0 Motion 41",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203048_4d65f51e-7818-4dc4-921b-407275cdd301_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Dynamic beat-synced choreography rendered in sharp high-definition clarity."
+  },
+  {
+    "id": "sd_42",
+    "title": "Seedance 2.0 Motion 42",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_203044_8d9c534c-98ec-437a-a6ba-aa9691b6629d_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Smooth camera glide paired with energetic street-style motion dynamics."
+  },
+  {
+    "id": "sd_43",
+    "title": "Seedance 2.0 Motion 43",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_191010_8424f015-c36f-446a-9826-61bf8d429b93_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "High-precision motion transfer bringing static portraits to life with natural rhythm."
+  },
+  {
+    "id": "sd_44",
+    "title": "Seedance 2.0 Motion 44",
+    "videoUrl": "https://cdn.higgsfield.ai/user_3AvFCf0aoS6DTSHhwoX3QgsDzIR/hf_20260331_185039_7d39b550-f513-4093-bec0-cab3f8892c2a_rhhq.mp4",
+    "category": "Seedance 2.0",
+    "isPro": true,
+    "credits": 65,
+    "prompt": "Cinematic dance showcase with dramatic lighting and fluid body articulation."
   },
   {
     "id": "sd_45",
